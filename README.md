@@ -80,8 +80,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## Video
-
 
 
 Enjoy creating with this Python-based MS Paint clone! Feedback and contributions are always appreciated.
